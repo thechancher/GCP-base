@@ -21,7 +21,11 @@ terraform -version
 ```
 
 # Steps
-1. Log into your GCP account from the command line using: gcloud auth login
+1. Log into your GCP account from the command line using: 
+
+```
+gcloud auth login
+```
 
 2. Create a GCP project
 
